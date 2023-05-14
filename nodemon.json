@@ -1,0 +1,12 @@
+{
+	"ignore": [
+		"node_modules",
+		"bower_components",
+		"public",
+		"cypress"
+	],
+	"watch": [
+		"src"
+	],
+	"exec": "ts-node ./src/index.ts"
+}
